@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "ec2_instance"
+		},
+		{
+			"path": "internetGW"
+		},
+		{
+			"path": "route_table"
+		},
+		{
+			"path": "security_group"
+		},
+		{
+			"path": "subnets"
+		},
+		{
+			"path": "vpc"
+		}
+	]
+}
